@@ -3,7 +3,4 @@
 CS student at the University of Liverpool, passionate about Python and [software development].
 
 ## 🛠 Tech Stack
-Python · Git · [Docker]
-
-## 🔭 Currently working on
-- [Project name] — short description
+Python · Git · Docker
