@@ -49,7 +49,7 @@ I'm just getting started on my coding journey and spending this summer building 
 
 ---
 
-## 🎯 Summer 2025 Goals
+## 🎯 Summer 2026 Goals
 
 - [ ] Complete a Python fundamentals course
 - [ ] Build 3+ Python projects
