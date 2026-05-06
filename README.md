@@ -30,7 +30,7 @@ I'm just getting started on my coding journey and spending this summer building 
 ## 📌 Featured Projects
 
 ### 🌤️ [Python Weather App](https://github.com/mcpheeDev/python-weather-app)
-> A command-line weather app built in Python using the OpenWeatherMap API.
+> A GUI weather app built in Python using the OpenWeatherMap API.
 > Fetches real-time weather data for any city — my first real Python project!
 
 `Python` `REST APIs` `JSON` `CLI`
